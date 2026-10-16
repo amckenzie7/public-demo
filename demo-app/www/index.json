@@ -22,7 +22,12 @@
     },
     {
       "key": "access_token",
-      "value": "",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IldpeiBQUiBEZW1vIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxNjIzOTAyMn0.KMUFsIDTnFmyG3nMiGM6H9FNFUROf3wh7SmqJp-QV30",
+      "enabled": true
+    },
+    {
+      "key": "PRODUCTION_DB_CONNECTION",
+      "value": "postgresql://dbadmin:Pr0d_S3cr3t_P@ssw0rd_2026!@prod-db.internal.example.com:5432/customers",
       "enabled": true
     }
   ],
