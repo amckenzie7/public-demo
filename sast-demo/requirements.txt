@@ -1,1 +1,10 @@
 Flask==2.2.4
+PyYAML==5.3.1
+urllib3==1.25.8
+requests==2.25.0
+cryptography==38.0.1
+Pillow==9.0.0
+Jinja2==2.11.2
+Werkzeug==2.2.2
+django==3.1.1
+sqlparse==0.3.1
